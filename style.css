@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
   flex-wrap: wrap;
 }
-.card-container {
+.card {
   position: relative;
   width: 400px;
   height: 620px;
